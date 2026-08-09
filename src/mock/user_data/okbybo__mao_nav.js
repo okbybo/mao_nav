@@ -61,7 +61,28 @@ export const mockData = {
           "name": "NAS",
           "url": "https://q.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/q.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786263825299",
+          "name": "flare",
+          "url": "https://f.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/f.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786263846074",
+          "name": " 今日热榜 ",
+          "url": "https://hot.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hot.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786263870770",
+          "name": "kodbox",
+          "url": "https://kodbox.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/f.q.bybo.top:2087"
         }
       ]
     },
