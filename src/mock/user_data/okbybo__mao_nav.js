@@ -515,8 +515,16 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1786262624376",
+      "icon": "☁️",
+      "name": "NAS",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "前行小栈",
-  "search": "bing"
+  "search": "bing",
+  "icp": ""
 }
