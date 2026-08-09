@@ -83,6 +83,20 @@ export const mockData = {
           "url": "https://kodbox.q.bybo.top:2087",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/f.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786263996653",
+          "name": "read",
+          "url": "https://read.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/read.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786264096732",
+          "name": "memos",
+          "url": "https://memos.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/memos.q.bybo.top:2087"
         }
       ]
     },
