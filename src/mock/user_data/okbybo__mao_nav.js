@@ -117,35 +117,35 @@ export const mockData = {
           "name": "yuvomi",
           "url": "https://yuvomi.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/yuvomi.q.bybo.top:2087"
         },
         {
           "id": "site-1786264261773",
           "name": "sonovel",
           "url": "https://sonovel.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/sonovel.q.bybo.top:2087"
         },
         {
           "id": "site-1786264351904",
           "name": "春卷",
           "url": "https://chunjuan.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/chunjuan.q.bybo.top:2087"
         },
         {
           "id": "site-1786264378351",
           "name": " 文件传输助手",
           "url": "https://wxchat.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/wxchat.q.bybo.top:2087"
         },
         {
           "id": "site-1786264446807",
           "name": "brave",
           "url": "https://brave.q.bybo.top:2087",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/brave.q.bybo.top:2087"
         }
       ]
     },
