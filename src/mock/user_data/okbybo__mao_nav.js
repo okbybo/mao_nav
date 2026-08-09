@@ -97,6 +97,55 @@ export const mockData = {
           "url": "https://memos.q.bybo.top:2087",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/memos.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786264163847",
+          "name": "Calibre ",
+          "url": "https://reader.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/reader.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786264207599",
+          "name": "taskrr",
+          "url": "https://taskrr.q.bybo.top:2087",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/taskrr.q.bybo.top:2087"
+        },
+        {
+          "id": "site-1786264241405",
+          "name": "yuvomi",
+          "url": "https://yuvomi.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786264261773",
+          "name": "sonovel",
+          "url": "https://sonovel.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786264351904",
+          "name": "春卷",
+          "url": "https://chunjuan.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786264378351",
+          "name": " 文件传输助手",
+          "url": "https://wxchat.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786264446807",
+          "name": "brave",
+          "url": "https://brave.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
         }
       ]
     },
