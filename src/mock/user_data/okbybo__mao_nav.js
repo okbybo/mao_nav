@@ -55,7 +55,15 @@ export const mockData = {
       "icon": "☁️",
       "name": "NAS",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1786263652824",
+          "name": "NAS",
+          "url": "https://q.q.bybo.top:2087",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "ai-tools",
