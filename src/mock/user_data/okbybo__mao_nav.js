@@ -68,56 +68,56 @@ export const mockData = {
           "name": "flare",
           "url": "https://f.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/f.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/flare"
         },
         {
           "id": "site-1786263846074",
           "name": " 今日热榜 ",
           "url": "https://hot.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/hot.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/hot"
         },
         {
           "id": "site-1786263870770",
           "name": "kodbox",
           "url": "https://kodbox.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/f.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/kodbox"
         },
         {
           "id": "site-1786263996653",
           "name": "read",
           "url": "https://read.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/read.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/read"
         },
         {
           "id": "site-1786264096732",
           "name": "memos",
           "url": "https://memos.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/memos.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/memos"
         },
         {
           "id": "site-1786264163847",
           "name": "Calibre ",
           "url": "https://reader.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/reader.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/reader"
         },
         {
           "id": "site-1786264207599",
           "name": "taskrr",
           "url": "https://taskrr.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/taskrr.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/taskrr"
         },
         {
           "id": "site-1786264241405",
           "name": "yuvomi",
           "url": "https://yuvomi.q.bybo.top:2087",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/yuvomi.q.bybo.top:2087"
+          "icon": "https://www.faviconextractor.com/favicon/yuvomi"
         },
         {
           "id": "site-1786264261773",
